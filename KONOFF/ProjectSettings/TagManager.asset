@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Podloga
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1487321521
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Interactibles
+    uniqueID: 3246539429
+    locked: 0
+  - name: Ground
+    uniqueID: 1622236823
+    locked: 0
+  - name: Player
+    uniqueID: 2907648989
+    locked: 0
